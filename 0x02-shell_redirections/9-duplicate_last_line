@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -V !(*.js)
+tail -1 iacta >> iacta
